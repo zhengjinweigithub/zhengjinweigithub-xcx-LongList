@@ -43,7 +43,7 @@ Page({
         than.setData({
           [`list[${index}]`]: { height: than.boundings[index].height }
         })
-      }
+      } 
     });
   },
   //-------------------------方法-------------------------------------------
